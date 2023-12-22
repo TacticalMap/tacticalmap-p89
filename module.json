@@ -44,8 +44,8 @@
       }
     ]
   },
-  "manifest": "https://raw.githubusercontent.com/TacticalMap/tacticalmap-p88/main/module.json",
-  "download": "https://github.com/TacticalMap/tacticalmap-p88/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/TacticalMap/tacticalmap-p89/main/module.json",
+  "download": "https://github.com/TacticalMap/tacticalmap-p89/archive/refs/heads/main.zip",
   "protected": false,
   "coreTranslation": false
 }
